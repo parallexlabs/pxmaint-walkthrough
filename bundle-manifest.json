@@ -1,0 +1,113 @@
+[
+  {
+    "name": "@zxing/library",
+    "version": "0.21.3",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 14
+  },
+  {
+    "name": "dijkstrajs",
+    "version": "1.0.3",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE.md"
+    ],
+    "sourceNoticeCount": 1
+  },
+  {
+    "name": "esbuild",
+    "version": "0.25.12",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE.md"
+    ],
+    "sourceNoticeCount": 0,
+    "scope": "Generated helper provenance; the build tool itself is not bundled"
+  },
+  {
+    "name": "jsbarcode",
+    "version": "3.12.1",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "MIT-LICENSE.txt"
+    ],
+    "sourceNoticeCount": 0
+  },
+  {
+    "name": "qrcode",
+    "version": "1.5.4",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "license"
+    ],
+    "sourceNoticeCount": 1
+  },
+  {
+    "name": "react",
+    "version": "19.1.1",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 2
+  },
+  {
+    "name": "react-dom",
+    "version": "19.1.1",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 2
+  },
+  {
+    "name": "scheduler",
+    "version": "0.26.0",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 1
+  },
+  {
+    "name": "ts-custom-error",
+    "version": "3.3.1",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 0
+  },
+  {
+    "name": "typescript",
+    "version": "5.9.3",
+    "declaredLicense": "Apache-2.0",
+    "licenseFiles": [
+      "LICENSE.txt"
+    ],
+    "sourceNoticeCount": 1,
+    "scope": "Generated helper provenance; the build tool itself is not bundled"
+  },
+  {
+    "name": "vite",
+    "version": "6.4.4",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE.md"
+    ],
+    "sourceNoticeCount": 0,
+    "scope": "Generated helper provenance; the build tool itself is not bundled"
+  },
+  {
+    "name": "zod",
+    "version": "4.1.12",
+    "declaredLicense": "MIT",
+    "licenseFiles": [
+      "LICENSE"
+    ],
+    "sourceNoticeCount": 0
+  }
+]
